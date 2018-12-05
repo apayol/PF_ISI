@@ -1,4 +1,7 @@
 NUEVOS-FALLOS
 -------------
-	RomanNumeral:
-	Faltaba añadir  si un número romano tiene más de tres letras iguales debería salir con error.
+·RomanNumeral:
+Faltaba añadir  si un número romano tiene más de tres letras iguales debería salir con error.
+
+·Bisiestos:
+Creados dos test nuevos: uno en el caso de que el año sea el 0 y otro para año negativo.
