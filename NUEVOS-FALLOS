@@ -4,4 +4,6 @@ NUEVOS-FALLOS
 Faltaba añadir  si un número romano tiene más de tres letras iguales debería salir con error.
 
 ·Bisiestos:
+link original: https://github.com/apayol/PF_ISI/blob/master/P1/Bisiestos/Bisiestotest.java
 Creados dos test nuevos: uno en el caso de que el año sea el 0 y otro para año negativo.
+link modificado: https://github.com/apayol/PF_ISI/blob/master/P1/Bisiestos/BisiestoTestModificado.java
