@@ -1,2 +1,4 @@
 NUEVOS-FALLOS
 -------------
+	RomanNumeral:
+	Faltaba añadir  si un número romano tiene más de tres letras iguales debería salir con error.
