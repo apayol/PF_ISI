@@ -1,7 +1,10 @@
 NUEVOS-FALLOS
 -------------
+
 ·RomanNumeral:
-Faltaba añadir  si un número romano tiene más de tres letras iguales debería salir con error.
+link original:https://github.com/apayol/PF_ISI/blob/master/P1/NumerosRomanos/RomanNumeralTest.java
+Faltaba añadir que si un número romano tiene más de tres letras iguales, debería salir con error.
+link modificado:https://github.com/apayol/PF_ISI/blob/master/P1/NumerosRomanos/RomanModificado/RomanNumeralTest.java
 
 ·Bisiestos:
 link original: https://github.com/apayol/PF_ISI/blob/master/P1/Bisiestos/Bisiestotest.java
