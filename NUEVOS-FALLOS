@@ -20,4 +20,4 @@ link modificado: https://github.com/apayol/PF_ISI/blob/master/P1/Embotelladora/E
 link original: https://github.com/apayol/PF_ISI/blob/master/P1/BlackFriday/BlackFridayTest.java
 Vemos que se contempla el test para el caso de que sea un precio negativo. También se contempla el caso de que el precio sea valido.
 Añadimos un test nuevo donde se prueba que la fecha no es blackfriday.
-link modificado:
+link modificado: https://github.com/apayol/PF_ISI/blob/master/P1/BlackFriday/BlackfridayModificado/BlackFridayTestmodificado.java
