@@ -15,3 +15,9 @@ link modificado: https://github.com/apayol/PF_ISI/blob/master/P1/Bisiestos/Bisie
 link original: https://github.com/apayol/PF_ISI/blob/master/P1/Embotelladora/EmbotelladoraTest.java
 No había test que contemplaran la introdución de números negativos para las botellas o el total, si casos frontera como el 0.
 link modificado: https://github.com/apayol/PF_ISI/blob/master/P1/Embotelladora/EmbotelladoraModificado/MiEmbotelladoraTestAdaptado.java
+
+·BlackFriday:
+link original: https://github.com/apayol/PF_ISI/blob/master/P1/BlackFriday/BlackFridayTest.java
+Vemos que se contempla el test para el caso de que sea un precio negativo. También se contempla el caso de que el precio sea valido.
+Añadimos un test nuevo donde se prueba que la fecha no es blackfriday.
+link modificado:
