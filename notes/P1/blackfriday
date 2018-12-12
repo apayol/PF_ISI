@@ -1,0 +1,21 @@
+1. public class BlackFriday {
+// Parametros: precio del que se parte para realizar el descuento si es fecha de blackfriday.
+// PrecioOriginal: precio del que se parte.
+// fecha: fecha del día que se hace el descuento.
+// Devuelve: el precio original con o sin descuento
+// teniendo en cuenta si el precio es correcto y si está en blackfriday.
+public double PrecioFinal(double PrecioOriginal,LocalDate fecha) {
+//
+}
+}
+
+2. Parámetros: double PrecioOriginal,LocalDate fecha
+
+3. Caracterizaciones para PrecioOriginal:
+        - Q1: Mayor que cero
+        - Q2: MEnor que cero
+
+3. Caracterizaciones para fecha:
+		- Q1: es dia 23 del 11
+        - Q2: no es día 23 del 11
+
